@@ -2,6 +2,6 @@
 
 You should go over the following in order:
 - [Handshake Protocol 1](./handshake1.md)
-- Protocol 2
+- [Handshake Protocol 2](./handshake2.md)
 
 More to come later!
