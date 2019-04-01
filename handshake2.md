@@ -1,4 +1,4 @@
-# handshake1
+# handshake2
 
 The following exercise specifies the negotiation and bootstrapping of a secure channel between two peers. The initiator is called the client, the other peer is called the server.
 
@@ -50,4 +50,4 @@ Describe at least one way to attack this handshake protocol.
 
 > Hint: What is a downgrade attack?
 
-How to prevent such attach?
+How to prevent such attack?
