@@ -21,6 +21,10 @@ Consider the following scenario:
     - enc_key = Hash(pre-master secret, "encryption key")
     - mac_key = Hash(pre-master secret, "mac key")
 
+---
+
 Describe at least one way to attack this handshake protocol.
 
-Hint: What can a MITM do?
+> Hint: What can a MITM do?
+
+How to prevent such attach?

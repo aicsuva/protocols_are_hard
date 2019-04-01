@@ -4,7 +4,7 @@
 
 Acknowledgement
 
-This work in this repo is an edited version of the following:
+The work in this repo is an edited version of the following:
 
 https://gist.github.com/alexmata/fd9049402545727331d6023897d4da81
 
