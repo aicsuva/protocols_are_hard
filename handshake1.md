@@ -27,4 +27,4 @@ Describe at least one way to attack this handshake protocol.
 
 > Hint: What can a MITM do?
 
-How to prevent such attach?
+How to prevent such attack?
